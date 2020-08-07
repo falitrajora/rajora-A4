@@ -1,0 +1,8 @@
+{
+    "lunch":
+    [
+        {"food":"Oats","price":20,"calories":150},
+        {"food":"Cereals","price":40,"calories":250},
+        {"food":"Poridge","price":60,"calories":350}
+    ]
+}
